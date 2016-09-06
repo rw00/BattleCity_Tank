@@ -1,0 +1,10 @@
+Online Game Version: 	https://www.playfg.com/battle-city-tank-game.html
+
+
+Fonts: 	http://www.dafont.com/press-start.font
+
+Sounds: http://www.sounds-resource.com/nes/battlecity/sound/3710/
+
+Image: 	https://github.com/raitisg/battle-city-tanks/blob/master/images/sprites.gif
+
+Levels:	https://github.com/raitisg/battle-city-tanks/blob/master/levels/
